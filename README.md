@@ -1,5 +1,4 @@
 # I've joined the #100DaysOfCode Challenge.
-this is a test
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
