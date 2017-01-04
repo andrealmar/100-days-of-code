@@ -8,3 +8,11 @@
 
 **Link to work:** [Count Sheep](https://github.com/andrealmar/algorithm-practice/blob/master/codewars/count_sheeps.py)
 
+### Day 1: January 3, 2017
+
+**Today's Progress**: updated dojominas.org website 
+
+**Thoughts:** did little today because I didn't planned my day very well. 
+
+**Link to work:** [DojoMinas - Coding Dojo](http://dojominas.org)
+
