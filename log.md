@@ -23,3 +23,11 @@
 **Thoughts:** headache all day but I could code for a little. #hanginthere
 
 **Link to work:** [Learn Python the Hard Way - Ex1](https://github.com/andrealmar/learn-python-the-hard-way/tree/master/ex1)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: did ex2 and ex2 of Learn Python the Hard Way
+
+**Thoughts:** completed on late night. but still coding every day.
+
+**Link to work:** [Learn Python the Hard Way - Ex2 & Ex3](https://github.com/andrealmar/learn-python-the-hard-way)
