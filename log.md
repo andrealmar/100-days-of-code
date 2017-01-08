@@ -31,3 +31,11 @@
 **Thoughts:** completed on late night. but still coding every day.
 
 **Link to work:** [Learn Python the Hard Way - Ex2 & Ex3](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: did ex4 of Learn Python the Hard Way
+
+**Thoughts:** n/a
+
+**Link to work:** [Learn Python the Hard Way - Ex4](https://github.com/andrealmar/learn-python-the-hard-way)
