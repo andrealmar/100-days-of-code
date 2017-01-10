@@ -39,3 +39,11 @@
 **Thoughts:** n/a
 
 **Link to work:** [Learn Python the Hard Way - Ex4](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: did ex5 of Learn Python the Hard Way
+
+**Thoughts:** n/a
+
+**Link to work:** [Learn Python the Hard Way - Ex5](https://github.com/andrealmar/learn-python-the-hard-way)
