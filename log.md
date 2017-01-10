@@ -50,8 +50,8 @@
 
 ### Day 6: January 9, 2017
 
-**Today's Progress**: did ex6, ex7, ex8 and ex9 of Learn Python the Hard Way
+**Today's Progress**: did ex6, ex7, ex8 and ex9 of Learn Python the Hard Way. I did watch Zed Shaw's talk on [DjangoCon Europe 2013: Zed Shaw - The Imaginative Programmer](https://www.youtube.com/watch?v=w1-bDwNtG-I)
 
-**Thoughts:** n/a
+**Thoughts:** Zed Shaw's book is really good. I wish I knew this book when I was beginning with Python.
 
 **Link to work:** [Learn Python the Hard Way - Ex6, Ex7, Ex8, Ex9](https://github.com/andrealmar/learn-python-the-hard-way)
