@@ -47,3 +47,11 @@
 **Thoughts:** n/a
 
 **Link to work:** [Learn Python the Hard Way - Ex5](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 6: January 9, 2017
+
+**Today's Progress**: did ex6, ex7, ex8 and ex9 of Learn Python the Hard Way
+
+**Thoughts:** n/a
+
+**Link to work:** [Learn Python the Hard Way - Ex6, Ex7, Ex8, Ex9](https://github.com/andrealmar/learn-python-the-hard-way)
