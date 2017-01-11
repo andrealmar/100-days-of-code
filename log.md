@@ -55,3 +55,11 @@
 **Thoughts:** Zed Shaw's book is really good. I wish I knew this book when I was beginning with Python.
 
 **Link to work:** [Learn Python the Hard Way - Ex6, Ex7, Ex8, Ex9](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: did ex10, ex11 and ex12 of Learn Python the Hard Way. I did watch Mauricio Linhare's talk on DevOps [DevOpsDays Philly 2016 - From Dev to DevOps by Mauricio Linhares](https://www.youtube.com/watch?v=01gS9UKMKb0&t=1837s)
+
+**Thoughts:** Continue to do the same stuff and improve in Python and DevOps which are my niche.
+
+**Link to work:** [Learn Python the Hard Way - Ex10, Ex11, Ex12](https://github.com/andrealmar/learn-python-the-hard-way)
