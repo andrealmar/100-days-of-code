@@ -63,3 +63,11 @@
 **Thoughts:** Continue to do the same stuff and improve in Python and DevOps which are my niche.
 
 **Link to work:** [Learn Python the Hard Way - Ex10, Ex11, Ex12](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: did almost nothing today =/ only a small update on DojoMinas - Coding Dojo website
+
+**Thoughts:** n/a.
+
+**Link to work:** [Dojo Minas](http://dojominas.org)
