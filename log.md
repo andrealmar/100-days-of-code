@@ -71,3 +71,11 @@
 **Thoughts:** n/a.
 
 **Link to work:** [Dojo Minas](http://dojominas.org)
+
+### Day 9: January 12, 2017
+
+**Today's Progress**: I did watch Google SRE Webinar [Working at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM)
+
+**Thoughts:** n/a
+
+**Link to work:** no code to pushed github today
