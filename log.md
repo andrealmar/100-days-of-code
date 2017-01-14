@@ -85,6 +85,7 @@
 **Today's Progress**: did ex13 of Learn Python the Hard Way.
 I did watch couple more videos of SREcon16 and SREcon15
 - [SREcon16 - From Ops to SRE on a Brazilian Startup](https://www.youtube.com/watch?v=Yrmnc_QjAzM&t=558s)
+- [SREcon16 - Go for SREs Using Python](https://www.youtube.com/watch?v=AB3AVikKXII)
 - [SREcon15 - SRE Hiring](https://www.youtube.com/watch?v=ucCSRY-KOCI)
 - [SREcon15 - From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.youtube.com/watch?v=pE7RLRea0MM)
 
