@@ -108,3 +108,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** [Learn Python the Hard Way - Ex15](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 13: January 17, 2017
+
+**Today's Progress**: did 1st version (very basic) of a script to manage OBIEE environments (Oracle BI).
+
+**Thoughts:** n/a
+
+**Link to work:** [OBIEE Management Script](https://github.com/andrealmar/scripts)
