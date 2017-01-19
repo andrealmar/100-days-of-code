@@ -116,3 +116,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** [OBIEE Management Script](https://github.com/andrealmar/scripts)
+
+### Day 14: January 18, 2017
+
+**Today's Progress**: refactor of a script to manage OBIEE environments (Oracle BI).
+
+**Thoughts:** n/a
+
+**Link to work:** [OBIEE Management Script](https://github.com/andrealmar/scripts)
