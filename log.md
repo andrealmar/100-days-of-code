@@ -124,3 +124,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** [OBIEE Management Script](https://github.com/andrealmar/scripts)
+
+### Day 15: January 19, 2017
+
+**Today's Progress**: did ex16 of Learn Python the Hard Way.
+
+**Thoughts:** n/a
+
+**Link to work:** [Learn Python the Hard Way - Ex15](https://github.com/andrealmar/learn-python-the-hard-way)
