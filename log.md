@@ -140,3 +140,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** [Learn Python the Hard Way - Ex15](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 17: January 21, 2017
+
+**Today's Progress**: made a PR to Planet Python to add my blog
+
+**Thoughts:** n/a
+
+**Link to work:** [Planet Python - adding andrealmar.com feed](https://github.com/python/planet/pull/194)
