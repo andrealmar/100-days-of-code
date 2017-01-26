@@ -164,3 +164,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** [Learn Python the Hard Way - Ex19](https://github.com/andrealmar/learn-python-the-hard-way)
+
+### Day 20: January 25, 2017
+
+**Today's Progress**: did ex20 of Learn Python the Hard Way.
+
+**Thoughts:** n/a
+
+**Link to work:** [Learn Python the Hard Way - Ex20](https://github.com/andrealmar/learn-python-the-hard-way)
