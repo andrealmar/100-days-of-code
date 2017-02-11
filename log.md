@@ -212,3 +212,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** n/a
+
+### Day 26: February 10, 2017
+
+**Today's Progress**: continuing Docker course and did ex38 of Learn Python the Hard Way.
+
+**Thoughts:** n/a
+
+**Link to work:** n/a
