@@ -220,3 +220,11 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** n/a
+
+### Day 27: February 13, 2017
+
+**Today's Progress**: continuing Docker course.
+
+**Thoughts:** n/a
+
+**Link to work:** n/a
