@@ -228,3 +228,19 @@ I did watch couple more videos of SREcon16 and SREcon15
 **Thoughts:** n/a
 
 **Link to work:** n/a
+
+### Day 28: February 16, 2017
+
+**Today's Progress**: code a Django app (Dashboard KPI) in a private repo.
+
+**Thoughts:** n/a
+
+**Link to work:** n/a
+
+### Day 29: February 17, 2017
+
+**Today's Progress**: continuing to develop a Django app (Dashboard KPI) in a private repo.
+
+**Thoughts:** n/a
+
+**Link to work:** n/a
